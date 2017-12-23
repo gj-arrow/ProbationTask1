@@ -1,0 +1,119 @@
+D:\Work\a.hovrin\debug2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Work\a.hovrin\debug2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Work\a.hovrin\debug2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Work\a.hovrin\debug2\UnitTestProject1\bin\Debug\VkApiTest.dll.config
+D:\Work\a.hovrin\debug2\UnitTestProject1\bin\Debug\VkApiTest.dll
+D:\Work\a.hovrin\debug2\UnitTestProject1\bin\Debug\VkApiTest.pdb
+D:\Work\a.hovrin\debug2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Work\a.hovrin\debug2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Work\a.hovrin\debug2\UnitTestProject1\bin\Debug\OnlinerTestDemo.dll
+D:\Work\a.hovrin\debug2\UnitTestProject1\bin\Debug\WebDriver.dll
+D:\Work\a.hovrin\debug2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Work\a.hovrin\debug2\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+D:\Work\a.hovrin\debug2\UnitTestProject1\bin\Debug\log4net.dll
+D:\Work\a.hovrin\debug2\UnitTestProject1\bin\Debug\nunit.framework.dll
+D:\Work\a.hovrin\debug2\UnitTestProject1\bin\Debug\OnlinerTestDemo.pdb
+D:\Work\a.hovrin\debug2\UnitTestProject1\bin\Debug\OnlinerTestDemo.dll.config
+D:\Work\a.hovrin\debug2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Work\a.hovrin\debug2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Work\a.hovrin\debug2\UnitTestProject1\bin\Debug\WebDriver.xml
+D:\Work\a.hovrin\debug2\UnitTestProject1\obj\Debug\VkApiTest.csprojResolveAssemblyReference.cache
+D:\Work\a.hovrin\debug2\UnitTestProject1\obj\Debug\VkApiTest.csproj.CoreCompileInputs.cache
+D:\Work\a.hovrin\debug2\UnitTestProject1\obj\Debug\VkApiTest.dll
+D:\Work\a.hovrin\debug2\UnitTestProject1\obj\Debug\VkApiTest.pdb
+D:\Work\a.hovrin\VkApi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Work\a.hovrin\VkApi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Work\a.hovrin\VkApi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Work\a.hovrin\VkApi\UnitTestProject1\bin\Debug\VkApiTest.dll.config
+D:\Work\a.hovrin\VkApi\UnitTestProject1\bin\Debug\VkApiTest.dll
+D:\Work\a.hovrin\VkApi\UnitTestProject1\bin\Debug\VkApiTest.pdb
+D:\Work\a.hovrin\VkApi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Work\a.hovrin\VkApi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Work\a.hovrin\VkApi\UnitTestProject1\bin\Debug\OnlinerTestDemo.dll
+D:\Work\a.hovrin\VkApi\UnitTestProject1\bin\Debug\WebDriver.dll
+D:\Work\a.hovrin\VkApi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Work\a.hovrin\VkApi\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+D:\Work\a.hovrin\VkApi\UnitTestProject1\bin\Debug\log4net.dll
+D:\Work\a.hovrin\VkApi\UnitTestProject1\bin\Debug\OnlinerTestDemo.pdb
+D:\Work\a.hovrin\VkApi\UnitTestProject1\bin\Debug\OnlinerTestDemo.dll.config
+D:\Work\a.hovrin\VkApi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Work\a.hovrin\VkApi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Work\a.hovrin\VkApi\UnitTestProject1\bin\Debug\WebDriver.xml
+D:\Work\a.hovrin\VkApi\UnitTestProject1\obj\Debug\VkApiTest.csprojResolveAssemblyReference.cache
+D:\Work\a.hovrin\VkApi\UnitTestProject1\obj\Debug\VkApiTest.csproj.CoreCompileInputs.cache
+D:\Work\a.hovrin\VkApi\UnitTestProject1\obj\Debug\VkApiTest.dll
+D:\Work\a.hovrin\VkApi\UnitTestProject1\obj\Debug\VkApiTest.pdb
+D:\Work\a.hovrin\VkApi\UnitTestProject1\bin\Debug\Newtonsoft.Json.dll
+D:\Work\a.hovrin\VkApi\UnitTestProject1\bin\Debug\Newtonsoft.Json.xml
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\bin\Debug\VkApiTest.dll.config
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\bin\Debug\VkApiTest.dll
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\bin\Debug\VkApiTest.pdb
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\bin\Debug\Newtonsoft.Json.dll
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\bin\Debug\OnlinerTestDemo.dll
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\bin\Debug\WebDriver.dll
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\bin\Debug\log4net.dll
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\bin\Debug\OnlinerTestDemo.pdb
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\bin\Debug\Newtonsoft.Json.xml
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\bin\Debug\WebDriver.xml
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\obj\Debug\VkApiTest.csprojResolveAssemblyReference.cache
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\obj\Debug\VkApiTest.dll
+D:\Student\Tasks\A1QA probation\VkApi\UnitTestProject1\obj\Debug\VkApiTest.pdb
+D:\New folder\VkApi\VkApiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\New folder\VkApi\VkApiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\New folder\VkApi\VkApiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\New folder\VkApi\VkApiTest\bin\Debug\VkApiTest.dll.config
+D:\New folder\VkApi\VkApiTest\bin\Debug\VkApiTest.dll
+D:\New folder\VkApi\VkApiTest\bin\Debug\VkApiTest.pdb
+D:\New folder\VkApi\VkApiTest\bin\Debug\libpuzzle.dll
+D:\New folder\VkApi\VkApiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\New folder\VkApi\VkApiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\New folder\VkApi\VkApiTest\bin\Debug\Newtonsoft.Json.dll
+D:\New folder\VkApi\VkApiTest\bin\Debug\OnlinerTestDemo.dll
+D:\New folder\VkApi\VkApiTest\bin\Debug\WebDriver.dll
+D:\New folder\VkApi\VkApiTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\New folder\VkApi\VkApiTest\bin\Debug\WebDriver.Support.dll
+D:\New folder\VkApi\VkApiTest\bin\Debug\log4net.dll
+D:\New folder\VkApi\VkApiTest\bin\Debug\libpuzzle.pdb
+D:\New folder\VkApi\VkApiTest\bin\Debug\OnlinerTestDemo.pdb
+D:\New folder\VkApi\VkApiTest\bin\Debug\OnlinerTestDemo.dll.config
+D:\New folder\VkApi\VkApiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\New folder\VkApi\VkApiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\New folder\VkApi\VkApiTest\bin\Debug\Newtonsoft.Json.xml
+D:\New folder\VkApi\VkApiTest\bin\Debug\WebDriver.xml
+D:\New folder\VkApi\VkApiTest\obj\Debug\VkApiTest.csprojResolveAssemblyReference.cache
+D:\New folder\VkApi\VkApiTest\obj\Debug\VkApiTest.csproj.CoreCompileInputs.cache
+D:\New folder\VkApi\VkApiTest\obj\Debug\VkApiTest.dll
+D:\New folder\VkApi\VkApiTest\obj\Debug\VkApiTest.pdb
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\bin\Debug\VkApiTest.dll.config
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\bin\Debug\VkApiTest.dll
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\bin\Debug\VkApiTest.pdb
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\bin\Debug\libpuzzle.dll
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\bin\Debug\Newtonsoft.Json.dll
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\bin\Debug\OnlinerTestDemo.dll
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\bin\Debug\WebDriver.dll
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\bin\Debug\WebDriver.Support.dll
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\bin\Debug\log4net.dll
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\bin\Debug\libpuzzle.pdb
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\bin\Debug\OnlinerTestDemo.pdb
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\bin\Debug\Newtonsoft.Json.xml
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\bin\Debug\WebDriver.xml
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\obj\Debug\VkApiTest.csprojResolveAssemblyReference.cache
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\obj\Debug\VkApiTest.dll
+D:\Student\Tasks\A1QA probation\Task1VkApi\VkApi\VkApiTest\obj\Debug\VkApiTest.pdb
