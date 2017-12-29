@@ -1,0 +1,5 @@
+D:\Work\Task1\TestVkApi\bin\Debug\libpuzzle.dll
+D:\Work\Task1\TestVkApi\bin\Debug\libpuzzle.pdb
+D:\Work\Task1\TestVkApi\Libpuzzle\obj\Debug\LibPuzzle.csproj.CoreCompileInputs.cache
+D:\Work\Task1\TestVkApi\Libpuzzle\obj\Debug\libpuzzle.dll
+D:\Work\Task1\TestVkApi\Libpuzzle\obj\Debug\libpuzzle.pdb
